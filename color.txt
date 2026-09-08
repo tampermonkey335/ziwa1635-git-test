@@ -1,1 +1,2 @@
-My favorite color is Null.
+My favorite color is None.
+Update: Idk
